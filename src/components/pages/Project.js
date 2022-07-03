@@ -126,6 +126,7 @@ function Project() {
       setProject(projectUpdate)
       setServices(servicesUpdate)
       setMessage('Serviço removido com sucesso!')
+      setType('sucess');
     })
     .catch((err => console.log(err)))
 
