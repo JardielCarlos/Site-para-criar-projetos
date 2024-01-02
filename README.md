@@ -11,11 +11,10 @@ Este é um site dedicado à criação e gerenciamento de projetos. Ele permite q
 
 ## Como usar
 
-1. Crie uma nova conta ou faça login em sua conta existente.
-2. Na página inicial, clique em 'Criar Novo Projeto'.
-3. Preencha os detalhes do projeto, incluindo o nome, o orçamento e o tipo de projeto.
-4. Adicione serviços ao seu projeto conforme necessário.
-5. Adicione fotos ao seu projeto clicando em 'Adicionar Fotos'.
+1. Na página inicial, clique em 'Criar Projeto'.
+2. Preencha os detalhes do projeto, incluindo o nome, o orçamento e a categoria.
+3. Adicione serviços ao seu projeto conforme necessário.
+
 
 
 ## Imagens do Projeto
